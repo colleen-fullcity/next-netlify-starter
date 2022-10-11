@@ -13,9 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my the Dennis Miller Furniture payment page." />
         <p className="description">
-         We'll parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we're pushing.
-        <br>
-        <a href="https://developers.paytrace.com/support/home"> Paytrace API </a>
+         We will parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we are pushing.
+  
         </p>
     here's another line.
       </main>
