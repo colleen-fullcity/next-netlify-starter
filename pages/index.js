@@ -16,7 +16,6 @@ export default function Home() {
     This is a payment page. We will parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we are pushing.
   
         </p>
-    here's another line.
       </main>
 
       <Footer />
