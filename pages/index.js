@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my the Dennis Miller Furniture payment page." />
+        <Header title="Dennis Miller Furniture" />
         <p className="description">
-         We will parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we are pushing.
+    This is a payment page. We will parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we are pushing.
   
         </p>
     here's another line.
