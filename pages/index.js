@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my the Dennis Miller Furniture payment page." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-
+         We'll parse parameters passed to this page, and pre-load form fields.  Form submission will call either ACH or CC depending on what we're pushing.
+        <br>
+        <a href="https://developers.paytrace.com/support/home"> Paytrace API </a>
         </p>
     here's another line.
       </main>
